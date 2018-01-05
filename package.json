@@ -1,0 +1,16 @@
+{
+  "name": "react-props2md",
+  "version": "0.0.1",
+  "description": "convert react props to a markdown table",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jose Miguel Bejarano (xDae)",
+  "license": "MIT",
+  "dependencies": {
+    "json-to-markdown-table": "^1.0.0",
+    "meow": "^4.0.0",
+    "react-docgen": "^2.20.0"
+  }
+}
